@@ -1,0 +1,50 @@
+body{
+  font-family: Georgia, serif;
+}
+.introduction{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    height: auto;
+    font-size: 20px;
+    /*align-items: center;*/
+    /*vertical-align: center;*/
+}
+.introduction-heading{
+    font-size: 70px;
+    font-family: Georgia, serif;
+	color: black;
+}
+.introduction p{
+    margin-top: 0;
+    color: gray;
+    font-family: Georgia, serif;
+}
+#joinButton{
+    background: #FBD100;
+    /*background: red;*/
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+    color: black;
+    font-weight: bold;
+}
+#slantedText{
+    margin-top: 0;
+    margin-left: 15%;
+}
+#slanted{
+    background: #BCF9BC;
+ }
+svg{
+    position: relative;
+    top: 0;
+    width: 120%;
+    height: 100px;
+    fill: white;
+    transform: rotateX(180deg);
+}

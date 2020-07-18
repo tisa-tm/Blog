@@ -1,0 +1,56 @@
+body{
+  /*font-family: Arial, Helvetica, sans-serif;*/
+}
+#navi{
+    background-color: #32B4F7 !important;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    
+}
+.introduction{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    margin-left: 15%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    /*vertical-align: center;*/
+    height: auto;
+    font-size: 20px;
+}
+.introduction-heading{
+    font-size: 70px;
+    font-family: Georgia, serif;
+	color: black;
+}
+.introduction p{
+    color: gray;
+    font-family: Georgia, serif;
+}
+#joinButton{
+    background: #FBD100;
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+    color: black;
+}
+#slantedText{
+    margin-top: 0;
+    margin-left: 15%;
+}
+#slanted{
+    background: #BCF9BC;
+ }
+svg{
+    position: relative;
+    top: 0;
+    width: 120%;
+    height: 100px;
+    fill: white;
+    transform: rotateX(180deg);
+}

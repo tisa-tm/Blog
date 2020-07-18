@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+}
+#navi{
+    background-color: #32B4F7 !important;
+    font-family: "Segoe UI", Verdana, sans-serif;
+    height: 70px;
+}
+#userNavi{
+	background-color: #32B4F7 !important;
+    font-family: "Segoe UI", Verdana, sans-serif;
+    height: 70px;    
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+    float: left;
+    margin: 27px 25px;
+    font-size: 15px;
+}
+/*#logoutButton{
+    border: none;
+    background-color: #32B4F7;
+    margin: auto 0;
+    color: white;
+    font-family: "Segoe UI", Verdana, sans-serif;
+    height: 70px;
+}
+*/

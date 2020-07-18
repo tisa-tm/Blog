@@ -1,0 +1,54 @@
+.popupContainer{
+	position: absolute;
+	display: none;
+	background: #FEF6CC;
+	height: 350px;
+	width: 250px;
+	top: 30px;
+	left: 400px;
+	z-index: 1;
+}
+#popupForm{
+	margin-left: 50px;
+	/*margin-right: 50px;*/
+	margin-top: 70px;
+}
+#loginButton{
+	background: #BCF9BC;
+	border: none;
+	border-radius: 15px;
+	height: 30px;
+	width: 50px;
+}
+#signupButton{
+	background: #BCF9BC;
+	border: none;
+	border-radius: 15px;
+	height: 30px;
+	width: 70px;
+}
+.closeBtn{
+	/*background: #FBD100;*/
+	background: #BCF9BC;
+	border: none;
+	border-radius: 15px;
+	height: 30px;
+	width: 50px;
+}
+/*#closeButton1{
+	background: #FBD100;
+	border: none;
+	border-radius: 15px;
+	height: 30px;
+	width: 50px;
+}*/
+input{
+	border-radius: 15px;
+	border: none;
+	height: 10%;
+	width: 75%;
+}
+label{
+	text-align: center;
+	margin: 2% 0;
+}
